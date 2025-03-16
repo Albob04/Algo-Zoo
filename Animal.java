@@ -1,5 +1,5 @@
 public abstract class Animal {
-    protected String namaAnimal;
+    protected String namaAnimal; //haiii
     protected String namaLatin;
     protected String speciesAnimal;
     protected String idAnimal;
