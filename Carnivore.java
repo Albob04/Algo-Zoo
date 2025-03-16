@@ -1,0 +1,3 @@
+interface Carnivore {
+    void feedMeat();
+}
